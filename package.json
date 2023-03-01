@@ -1,0 +1,24 @@
+{
+  "name": "prompt-eng-clouds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prompt-generator-clouds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estadnikphantom/prompt-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estadnikphantom/prompt-generator/issues"
+  },
+  "homepage": "https://github.com/estadnikphantom/prompt-generator#readme",
+  "dependencies": {
+    "@usecsv/js": "^0.12.0",
+    "csv-parse": "^5.3.5"
+  }
+}

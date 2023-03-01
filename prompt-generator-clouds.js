@@ -9,9 +9,9 @@ function generateNegativePrompt(options) {
 
 
 let userChoices = {
-  animal: "Cheetah",
-  colour: "Yellow",
-  place: "Beach",
+  animal: "Capybara",
+  colour: "Orange",
+  place: "New York",
 }
 
 
