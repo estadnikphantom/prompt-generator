@@ -1,10 +1,4 @@
-export const prompts = [
-    {
-        id: "test, test",
-        prompt: {
-            positive: "pos",
-            negative: "neg",
-        },
-    },
-]
+import {positivePrompts} from "./prompt-generator-generic.js";
+
+console.log(positivePrompts)
 
